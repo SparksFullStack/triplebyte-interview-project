@@ -1,0 +1,7 @@
+.board--card-container {
+    display: flex;
+}
+
+.board--card-container:first-child {
+    margin-left: 25px;
+}
